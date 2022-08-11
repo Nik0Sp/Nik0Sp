@@ -5,7 +5,7 @@
 
 
 
-<img src="https://camo.githubusercontent.com/19984eef17084d52b9d72fc7e57de1f40313eae35282482c5e6611b161e59925/68747470733a2f2f6769746875622d726561646d652d73746174732e76657263656c2e6170702f6170693f757365726e616d653d417269694d652673686f775f69636f6e733d74727565267468656d653d73796e746877617665" alt="Anurag's github stats" data-canonical-src="https://github-readme-stats.vercel.app/api?username=Nik0Sp;show_icons=true&amp;theme=synthwave" style="max-width: 100%;">
+
 Here are some ideas to get you started:
 
 - 🔭 I’m currently working on ...
