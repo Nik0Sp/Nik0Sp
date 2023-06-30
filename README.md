@@ -22,5 +22,4 @@ Here are some ideas to get you started:
 
 ![GitHub Contributions](https://github-readme-streak-stats.herokuapp.com/?user=Nik0Sp&theme=radical)
 
-![GitHub Trophies](https://github-profile-trophy.vercel.app/?username=Nik0Sp&theme=radical)
 
