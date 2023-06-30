@@ -1,7 +1,7 @@
 ### Hi there 👋
 
 <!--
-**Nik0Sp/Nik0Sp** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+**Nik0Sp/Nik0Sp** is a ✨ _special_ ✨ repository because its `` (this file) appears on your GitHub profile.
 
 
 
