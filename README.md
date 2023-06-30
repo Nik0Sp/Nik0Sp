@@ -21,3 +21,5 @@ Here are some ideas to get you started:
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Nik0Sp&theme=radical)
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Nik0Sp&layout=compact&theme=radical)
 
+![GitHub Contributions](https://github-readme-streak-stats.herokuapp.com/?user=Nik0Sp&theme=radical)
+
